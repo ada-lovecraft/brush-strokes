@@ -1,0 +1,23 @@
+{
+  "name": "constellations",
+  "version": "0.0.0",
+  "authors": [
+    "Jeremy Dowell <jeremy@codevinsky.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "proton": "*",
+    "lodash": "~3.7.0",
+    "stats.js": "*",
+    "PxLoader": "~1.0.0",
+    "chroma-js": "~0.6.1",
+    "color-thief": "*"
+  }
+}
